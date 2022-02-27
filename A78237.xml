@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the children of Sir William Curtius Baronet, late resident for the crown of England to the princes of the empire</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78237</idno>
+            <idno type="STC">Wing C1027aA</idno>
+            <idno type="STC">ESTC R229518</idno>
+            <idno type="EEBO-CITATION">99895297</idno>
+            <idno type="PROQUEST">99895297</idno>
+            <idno type="VID">152605</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152605)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2308:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the children of Sir William Curtius Baronet, late resident for the crown of England to the princes of the empire</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Curtius, William, --  Sir --  Early works to 1800.</term>
+               <term>Debt --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="summary">
+            <pb n="1" facs="tcp:152605:1" rendition="simple:additions"/>
+            <head>The CASE of the Children of Sir <hi>William Curtius</hi> Baronet, late Reſident for the Crown of <hi>England</hi> to the Princes of the Empire.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1639</label>
+               <note place="margin">
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tructions da<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the 14th of <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ober</hi> 1632, <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er the Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nds and Ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſſes of Sir <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ncis Winde<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ck.</hi>
+               </note>HIS Majeſty King <hi>CHARLES</hi> the Firſt ſent him to the Dyet of <hi>Noremberg</hi> with Credential Let<g ref="char:EOLhyphen"/>ters to moſt of the Electors, Princes and States of <hi>Germany,</hi> and with Inſtructions to carry a vigilant Eye upon all the publick Actions, and eſpecially upon the Negotiations of the Agent of <hi>France,</hi> the Kings Nephew, being then their Priſoner, &amp;c.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Inſtructions <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>der the King's <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd, dated the <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſt</hi> of <hi>Oct.</hi> 1639 <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r <hi>Henry Vane.</hi> 
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r <hi>Francis Win<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>anck.</hi>
+               </note>In this employment His MAJESTY by Privy Seal made him an Allowance of 40 Shillings <hi>per Diem,</hi> begin<g ref="char:EOLhyphen"/>ning the 18th of <hi>October</hi> 1639.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1640</label> He was Commanded to wait and ſecond Sir <hi>Thomas Rowe</hi>'s Negotiations at <hi>Ratisbon</hi> and <hi>Vienna,</hi> upon the Reſti<g ref="char:EOLhyphen"/>tution of the Elector <hi>Palatin, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1641</label>
+               <note place="margin">
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r <hi>Henry Vane.</hi> 
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r <hi>Edw. Nicholas.</hi>
+               </note>The King commanded him by Order under his own Hand, to meet the Queen Mother of <hi>France,</hi> and to find her an honourable Retreat at <hi>Collen;</hi> The 17th of <hi>June</hi> 1641, he was ſent to <hi>Caſſel</hi> in a Subdelegation from Sir <hi>Thomas Rowe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1642</label>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Lord</hi> Falk<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd. <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r <hi>Edw. Nicholas.</hi>
+               </note>The Diet of <hi>Francfort</hi> being begun, he was commanded to apply himſelf to thoſe States, for His Majeſties Intereſts and the Reſtitution of the <hi>Palatinate,</hi> and eſpecially to fol<g ref="char:EOLhyphen"/>low Sir <hi>Thomas Rowe</hi>'s Directions, as it appears by his Inſtru<g ref="char:EOLhyphen"/>ctions. Alſo the King having interdicted all Commerce with <hi>London,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1643</label>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r</hi> Edw. Nicholas. <hi>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Lord</hi> Digby. <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r</hi> Thomas Rowe.</note> he was commanded to encourage Merchants to ſend to the Ports in His Majeſties Obedience, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1644</label>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Lord</hi> Digby. <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r</hi> Edw. Nicholas. <hi>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Lord</hi> Gowr<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g <hi>at</hi> Paris.</note>And to inform thoſe Princes and Publick Miniſters of the Affairs agitated in <hi>England,</hi> to tranſlate and publiſh the King's Declarations, Manifeſto's, and other Treaties in His Majeſty's behalf, eſpecially about the Sickneſs and Death of King <hi>JAMES, &amp;c.</hi> to entertain the Overtures of the Reddition of <hi>Frankendall,</hi> made by Count <hi>Rebolledo</hi> and the <hi>Spaniſh</hi> Ambaſſadour at <hi>Francfort.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1645</label>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r</hi> Edw. Nicholas. <hi>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Lord S.</hi> Al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ns. <hi>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Lord</hi> Digby.</note>The King being at <hi>Oxford,</hi> and not receiving any Adver<g ref="char:EOLhyphen"/>tiſement from his Miniſters abroad, commanded him to hold his way by Mr. <hi>Bowman</hi> there (and he paid Mr. <hi>Baker</hi> Bookſeller at <hi>London</hi> for it) likewiſe to unmask the feigned Pretences of Reformation made at <hi>London,</hi> to all the Pro<g ref="char:EOLhyphen"/>teſtants in <hi>Germany</hi> and <hi>Switzerland.</hi> The Neutrality of <hi>Frankendall</hi> being ſtill in agitation, he ſent his Secretary into <hi>England</hi> to procure his Diſcharge, but could not obtain it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1646</label>
+               <note place="margin">My Lord <hi>Lane<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ck.</hi> My Lord <hi>Digby.</hi>
+               </note>Both the Secretaries of State being retired into <hi>France,</hi> he was commanded to ſend his Diſpatches to <hi>Paris,</hi> to diſ<g ref="char:EOLhyphen"/>patch an Expreſs to the King of <hi>Denmark,</hi> with the Kings Cypher for the ſetling of a new Correſpondence in <hi>France;</hi>
+               <pb n="2" facs="tcp:152605:2"/>the way of <hi>London</hi> being ſo far obſtructed, that his Man (above-ſaid) was in danger to be Hanged for an inter<g ref="char:EOLhyphen"/>cepted Pacquet.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1647</label>
+               <note place="margin">Sir <hi>Edw. Nicholas</hi> My Lord <hi>Lane<g ref="char:EOLhyphen"/>rick.</hi> My Lord <hi>Digby.</hi>
+               </note>The Prince Elector having permiſſion to wait upon the King, the Diſpatches were immediately directed to His Majeſty under the ſaid Princes covert. The Duplicats be<g ref="char:EOLhyphen"/>ing ſent into <hi>France,</hi> and to my Lord <hi>Digby</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1648</label>
+               <note place="margin">My Lord <hi>Lane<g ref="char:EOLhyphen"/>rick.</hi> Sir <hi>Robert Long.</hi> Mr. <hi>Oudart.</hi>
+               </note>The Diſpatches were ſent to <hi>London,</hi> and the certainty of the Peace of <hi>Germany</hi> was by them brought to His Majeſty at S. <hi>James</hi>'s, whereupon His Majeſty was pleaſed to ſignifie his pleaſure few days before his Death to the Elector <hi>Palatin,</hi> concerning the Offices which his Reſident ſhould do with the Miniſters of the Emperour. Alſo a correſpondency was kept with the Prince of <hi>Wales,</hi> accord<g ref="char:EOLhyphen"/>ing to Order.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1649</label>
+               <note place="margin">Sir <hi>Robert Long.</hi> My Lord of <hi>Montroſs.</hi>
+               </note>His Majeſty King <hi>CHARLES</hi> the Second continued him in the ſame Employment (at 40 <hi>s. per Diem</hi>) where<g ref="char:EOLhyphen"/>upon he waited upon the Dyet of <hi>Noremberg,</hi> where the Houſe <hi>Palatin</hi> was effectually reſtored, and he received their ſeveral Commands under His Majeſties own Hand for the nearer Concernments of His Crown; eſpecially concerning my Lord of <hi>Montroſs,</hi> whoſe Declaration he printed in ſeveral Languages in <hi>Germany,</hi> and followed his Lordſhips Directions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1650</label>
+               <note place="margin">
+                  <hi>Sir</hi> Robert Long. <hi>Sir</hi> Edw. Nicholas. <hi>My Lord of</hi> La<g ref="char:EOLhyphen"/>nerick.</note>He was commanded to ſolicit a Loan of 20000 <hi>Rix Dollars</hi> for the King, from the Elector of <hi>Mentz</hi> at <hi>Wirtz<g ref="char:EOLhyphen"/>bourg,</hi> where the Foundation was laid of that Imperial Subſidy.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1651</label>
+               <note place="margin">
+                  <hi>Sir</hi> Edw. Nicholas. <hi>Sir</hi> Robert Long.</note>Whereof he gave the firſt Project to the Queen Mother at <hi>Paris,</hi> and was by Her Majeſty and the Duke of <hi>York</hi> charged with divers Letters and Commiſſions to the Princes of <hi>Germany.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1652</label>
+               <note place="margin">Sir <hi>Edw. Nicholas.</hi> My Lord Chan<g ref="char:EOLhyphen"/>cellor. The Privy Seal dated at <hi>Paris</hi> 8. <hi>March</hi> 1652. My Lord Chan<g ref="char:EOLhyphen"/>cellor. Sir <hi>Edw. Nicholas.</hi> Sir <hi>Edw. Nicholas.</hi> My Lord Chan<g ref="char:EOLhyphen"/>cellor.</note>He received the Commiſſion to diſpoſe all things, that the Lord <hi>Rocheſter</hi> might be well received at <hi>Ratisbon,</hi> the ſuſpicion being that <hi>Whitlock</hi> ſhould repair thither from <hi>Hambourg, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1653</label> 50000 <hi>l. Sterling</hi> were granted at <hi>Ratisbon</hi> for the King by Sir <hi>William Curtius</hi>'s Mediation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1654</label> He waited upon the King at <hi>Collen</hi> (where his Account currant was ſtated and ſigned by His Majeſty) and he was ſent back again to <hi>Francfort,</hi> eſpecially to haſten the Circular Letters for the effectual Payment of the Subſidy, and to have an Eye upon the Proceedings of the Dyet.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1655</label>
+               <note place="margin">My Lord Chan<g ref="char:EOLhyphen"/>cellor. Sir <hi>Edw. Nicholas.</hi>
+               </note>He ſtill followed the Orders of His Majeſties Miniſters of State, and continued the Solicitations of the payment of the Imperial Subſidy for the King, beſides other Services</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1656</label>
+               <note place="margin">My Lord Chan<g ref="char:EOLhyphen"/>cellor, Sir <hi>Edw. Nicholas.</hi>
+               </note>And the continual Offices with the Elector of <hi>Mentz</hi> and the Ambaſſadors of the Dyet, and with thoſe of the Emperour and <hi>Bavaria.</hi>
+            </p>
+            <pb n="3" facs="tcp:152605:2"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1657</label>
+               <note place="margin">
+                  <hi>Sir</hi> Edw. Nicholas.</note>During the Intrigue in <hi>Germany,</hi> and the Election of this Emperour, His Majeſty was carefully advertiz'd of all Tranſactions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1658</label>
+               <note place="margin">
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir <hi>Edw. Nicholas.</hi> 
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll under their <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>wn Hands and <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>als.</note>He not being able further out of his own Purſe to bear the Charges of that publick Employment, His Majeſty was graciouſly pleaſed to give him his diſcharge by his Letters Patents.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1659</label> Nevertheleſs being choſen Ambaſſadour for the Elector <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1660</label> 
+               <hi>Palatin</hi> at the Imperial Dyet, he did carefully attend His <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1661</label> Majeſties Secretary of State with thoſe Advertiſements which did concern his Royal Intereſts, or were required from him, as it will appear by his Diſpatches.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno </seg>1662</label> He brought to His Majeſty his Re-credential Letters from the Chancellor of the Empire 16 <hi>Novemb.</hi> 1662.</p>
+            <p>During the ſaid Employment he kept Correſpondency (according to the firſt Inſtructions) with Sir <hi>Richard Browne</hi> at <hi>Paris,</hi> Sir <hi>Henry de Vic</hi> at <hi>Bruſſels,</hi> Sir <hi>William Boſwell</hi> at the <hi>Hague,</hi> Mr. <hi>Avery</hi> at <hi>Hambourg,</hi> Mr. <hi>Taylor</hi> at <hi>Vienna,</hi> Sir <hi>Gilbert Talbot</hi> at <hi>Venice,</hi> Sir <hi>Oliver Flemming</hi> in <hi>Switzerland,</hi> as long as they ſeverally reſided there. He likewiſe entertained Correſpondency in moſt of the Courts of <hi>Germany;</hi> the only Port of Letters in ſo many years Ne<g ref="char:EOLhyphen"/>gotiation, is a Charge too great for moſt private Men to ſuſtain.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <signed>CHARLES R.</signed>
+                        </opener>
+                        <p>
+                           <hi>WE have peruſed this Account,</hi>
+                           <note place="margin">Copia.</note> 
+                           <hi>and do allow and approve the ſame. And as we have a juſt and gracious ſenſe of the con<g ref="char:EOLhyphen"/>ſtant Integrity and Affection, which Our ſaid Truſty and Well-beloved Servant Sir</hi> William Curtius <hi>has expreſſed to the Service of Our moſt Dear and Royal Father of Bleſſed Memory and of Our Self, and of what he has done and ſuffered for the ſame; ſo We do oblige Our Self, Our Heirs and Succeſſors for the true and faithful Payment of the ſaid Debt of</hi> Fourteen thouſand Two hundred Fifty five Pounds <hi>Sterling, to him the ſaid Sir</hi> William Curtius, <hi>his Execu<g ref="char:EOLhyphen"/>tors or Aſſigns, as ſoon as it ſhall pleaſe God to reſtore us to Our Rights. And in the mean time We do promiſe to pay him from time to time ſuch part of it, as can poſſibly conſiſt with Our moſt urgent Occaſions.</hi> 
+                           <note place="margin">
+                              <gap reason="illegible: in gutter" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>l. <gap reason="illegible: in gutter" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>55</note>
+                        </p>
+                        <closer>
+                           <dateline>Dated at <hi>Collen</hi> 
+                              <date>the <hi>1ſt</hi> day of <hi>November</hi> 1654, in the Sixth year of Our Reign.</date>
+                           </dateline>
+                           <signed>
+                              <hi>By His Majeſties Command,</hi>
+                              <lb/> EDWARD NICHOLAS.<lb/> L.S.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Sir <hi>William Curtius</hi> made his Application to King <hi>CHARLES</hi> the Second for ſatisfaction of his Debt, and was very graciouſly received, and had a Privy Seal for 2000 <hi>l.</hi> to defray the Charges of his Journey, with a Promiſe of the whole; but of the 2000 <hi>l.</hi> he never receiv'd more than 500 <hi>l.</hi> And about the year 1678
+<pb n="4" facs="tcp:152605:3"/>died at <hi>Francfort</hi> in the Service of the Crown, leaving Five Chil<g ref="char:EOLhyphen"/>dren, and the ſaid Debt from His Majeſty unpaid.</p>
+            <p>That <hi>Adolphus Curtius,</hi> ſecond Son of the ſaid Sir <hi>William</hi> about a year ſince came into <hi>England,</hi> to ſolicit the payment of the ſaid Debt on behalf of himſelf, his Brothers and Siſters, and Petitioned the late King <hi>JAMES</hi> the Second, who referred him to the Lords of the Treaſury. But before any thing was done further therein, the late happy Revolution occur'd.</p>
+            <p>The ſaid <hi>Adolphus Curtius</hi> hath now made Application to the Honourable Houſe of Commons in a Petition, as is under-written:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Honourable the Knights, Citizens and Bur<g ref="char:EOLhyphen"/>geſſes in this preſent Parliament Aſſembled: The humble Petition of <hi>Charles Curtius, Adolphus, Erneſt Curtius, Mary</hi> and <hi>Katherine Curtius,</hi> Sons and Daughters of Sir <hi>William Curtius</hi> Baronet, Deceaſed:</head>
+                        <p>Sheweth,</p>
+                        <p>
+                           <hi>THat the ſaid Sir</hi> William Curtius <hi>ſpent the greateſt part of his Time and Fortune in the Service of the Engliſh Crown and Nati<g ref="char:EOLhyphen"/>on, during the Reigns of King</hi> Charles <hi>the Firſt and King</hi> Charles <hi>the Second, as their Reſident to the ſeveral Princes of the Empire: And his late Majeſty King</hi> Charles <hi>the Second became ſo ſenſible of his Services, that he ordered him to bring in his Accounts of the Mony due to him for his Salary, and which he lent and expended in that Service, which His ſaid Majeſty ſtated and allowed of at</hi> 14255 l. <hi>as appears by the ſaid Account ſigned by His ſaid Majeſty; who was alſo pleaſed to grant him a Private Seal for</hi> 2000 l. <hi>whereof only</hi> 500 l. <hi>was paid, as appears by Certificate under the Hand of Sir</hi> Robert Howard.</p>
+                        <p>
+                           <hi>That Sir</hi> William Curtius, <hi>Your Petitioners late Father, dying in the ſaid Employment, and the ſaid Debt (all ſave the</hi> 500 l.) <hi>remain<g ref="char:EOLhyphen"/>ing unpaid, Your Petitioner</hi> Adolphus Curtius, <hi>in behalf of himſelf and his Brothers and Siſters, applied himſelf unto his late Majeſty King</hi> James <hi>the Second for Satisfaction of the ſaid Debt; which His Majeſty took cognizance of, and referred the Conſideration of it unto the Lords of the Treaſury. But before His Majeſty's and their Lordſhips pleaſure and determination could be further known and obtained, the late Revolution hapned, and nothing more was done therein.</hi>
+                        </p>
+                        <p>
+                           <hi>That Your Petitioners Father having much impoveriſhed his Family in the ſaid Service, and being a Publick Miniſter, and the Honour of the Nation being concerned, that Juſtice in this reſpect be done unto his Children, eſpecially at this time, when the ſmall remainder of their Fortunes are raviſhed from them by the barbarous Invaſion of the</hi> Palatinate <hi>(Your Petitioners Native Country) by the French,</hi>
+                        </p>
+                        <p>Your Petitioners humbly implore the Compaſſion and Juſtice of this Honourable Houſe, to recommend them to their MAJESTIES Royal Conſideration, that ſome Satisfaction may be made to Your poor Petitioners in ſuch ways and methods, as to the great Wiſdom of this Houſe ſhall ſeem expedient.</p>
+                        <closer>And Your Petitioners ſhall ever pray</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
